@@ -1,6 +1,6 @@
 # Introduction
 
-This is a back end server that renders data for a mock restaurant, detailing different types of appetizers, entree, desserts, and drinks with JSON objects of the restaurant's food offerings.
+This is a back end server that renders data for a mock restaurant, detailing different types of appetizers, entrees, desserts, and drinks with JSON objects of the restaurant's food offerings.
 
 # What are included
 
